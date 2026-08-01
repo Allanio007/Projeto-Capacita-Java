@@ -1,0 +1,8 @@
+br\com\taskmanager\model\Tarefa.class
+br\com\taskmanager\exceptions\EntradaInvalidaException.class
+br\com\taskmanager\model\TarefaPrioritaria.class
+br\com\taskmanager\model\BaseTarefa.class
+br\com\taskmanager\utils\InputHelper.class
+br\com\taskmanager\app\Main.class
+br\com\taskmanager\controller\TaskManager.class
+br\com\taskmanager\model\ITarefa.class
